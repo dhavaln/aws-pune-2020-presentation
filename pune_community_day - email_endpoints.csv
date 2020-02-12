@@ -1,0 +1,4 @@
+ChannelType,Address,Location.Country,Demographic.Platform,Demographic.Make,User.UserId,User.UserAttributes.FirstName,User.UserAttributes.LastName,User.UserAttributes.Company,User.UserAttributes.City
+EMAIL,dhaval.b.nagar@gmail.com,IN,Email,,user-id-1,Dhaval,Nagar,Individual,Surat
+EMAIL,dhaval@appgambit.com,IN,Email,,user-id-2,Dhaval,Nagar 1,AppGambit,Pune
+EMAIL,jayeshbahire@appgambit.com,IN,Email,,user-id-3,Jayesh,Ahire,Pune User Group,Pune
