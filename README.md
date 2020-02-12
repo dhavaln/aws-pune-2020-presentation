@@ -5,5 +5,7 @@ I am using Pinpoint in multiple applications since 2019 and have also been recom
 
 ## Amazon Pinpoint 
 https://aws.amazon.com/pinpoint/
+
 https://www.youtube.com/watch?v=r67qxa0vbJo
+
 https://www.youtube.com/watch?v=9Qz15ifiL3g
